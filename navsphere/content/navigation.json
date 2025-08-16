@@ -602,14 +602,6 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
-            },
-            {
-              "id": "site_1755359351338_g1ivj59sv",
-              "title": "4399",
-              "href": "https://www.4399.com/",
-              "description": "4399",
-              "icon": "/assets/favicon_1755359274011.ico",
-              "enabled": true
             }
           ],
           "enabled": true
@@ -923,7 +915,16 @@
           "icon": "Globe",
           "description": "在线游玩网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1755359351338_g1ivj59sv",
+              "title": "4399小游戏",
+              "href": "https://www.4399.com/",
+              "description": "小游戏,4399小游戏,在线小游戏,双人小游戏,小游戏大全,双人小游戏大全",
+              "icon": "/assets/favicon_1755359274011.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
