@@ -935,7 +935,16 @@
       "description": "影视资源分类",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "150fac72-38c3-4e40-8b80-38fad4d2535c",
+          "title": "影视在线",
+          "icon": "Link",
+          "description": "在线观看也是资源网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
