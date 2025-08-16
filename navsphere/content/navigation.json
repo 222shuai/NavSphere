@@ -908,6 +908,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1755360074646",
+      "title": "游戏",
+      "icon": "LayoutGrid",
+      "description": "游戏相关导航",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
