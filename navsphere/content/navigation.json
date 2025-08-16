@@ -927,6 +927,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1755364110405",
+      "title": "影视资源",
+      "icon": "LayoutGrid",
+      "description": "影视资源分类",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
