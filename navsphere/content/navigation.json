@@ -916,7 +916,16 @@
       "description": "游戏相关导航",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "6c443b3e-2d08-4858-b820-8bd880380132",
+          "title": "在线游玩",
+          "icon": "Globe",
+          "description": "在线游玩网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
