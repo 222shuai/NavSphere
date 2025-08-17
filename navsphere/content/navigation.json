@@ -970,7 +970,16 @@
       "description": "网络访问相关工具网站",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "be1aaad3-3e4c-4ac5-9ea1-ea085cc2e6fc",
+          "title": "站点代理",
+          "icon": "Globe",
+          "description": "站点代理网站",
+          "enabled": true,
+          "items": []
+        }
+      ]
     }
   ]
 }
