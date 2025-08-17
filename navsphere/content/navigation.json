@@ -956,7 +956,7 @@
               "title": "MoonTV",
               "href": "https://moontv.shuai2.eu.org/",
               "description": "影视聚合",
-              "icon": "https://www.google.com/s2/favicons?sz=128&domain=moontv.shuai2.eu.org",
+              "icon": "https://moontv.shuai2.eu.org/favicon.ico",
               "enabled": true
             }
           ]
