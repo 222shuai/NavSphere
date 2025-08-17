@@ -962,6 +962,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1755446097413",
+      "title": "网络工具",
+      "icon": "LayoutGrid",
+      "description": "网络访问相关工具网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
