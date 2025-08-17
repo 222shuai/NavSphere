@@ -977,7 +977,16 @@
           "icon": "Globe",
           "description": "站点代理网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1755446163004",
+              "title": "Siteproxy",
+              "href": "https://siteproxy.shuai2.eu.org/222shuai/",
+              "description": "站点代理服务",
+              "icon": "https://image.baidu.com/search/detail?adpicid=0&b_applid=11636759590110015255&bdtype=0&commodity=&copyright=&cs=904270704%2C2312739352&di=7523999300557209601&fr=click-pic&fromurl=https%253A%252F%252Fwww.veer.com%252Fillustration%252F373877647%253Futm_source%253Dbaidu%2526utm_medium%253Dimagesearch%2526chid%253D%253D902&gsm=1e&hd=&height=0&hot=&ic=&ie=utf-8&imgformat=&imgratio=&imgspn=0&is=0%2C0&isImgSet=&latest=&lid=c67b21cf000075d2&lm=&objurl=https%253A%252F%252Ft8.baidu.com%252Fit%252Fu%253D904270704%252C2312739352%2526fm%253D193&os=3881591202%2C2986529297&pd=image_content&pi=0&pn=2&rn=1&simid=904270704%2C2312739352&tn=baiduimagedetail&width=0&word=%E7%BD%91%E7%BB%9C%E5%9B%BE%E6%A0%87%20%E7%9F%A2%E9%87%8F%E5%9B%BE&z=",
+              "enabled": true
+            }
+          ]
         }
       ]
     }
